@@ -1,0 +1,30 @@
+# Build settings
+markdown:           kramdown
+permalink:          pretty
+
+
+# Dependencies
+
+markdown:           kramdown
+highlighter:        pygments
+gems:               [jekyll-paginate]
+
+# Permalinks
+permalink:          pretty
+
+# Setup
+title:              "Krupskaya Online"
+tagline:
+description:        "A resource on Nadezhda Krupskaya and her work."
+host:               127.0.0.1
+url:                ""
+baseurl:            "/krupskaya"
+email:              iangoodale@utexas.edu
+
+
+paginate:           5
+layout:             blog-post
+
+# Custom vars
+version:            2.0.0
+
