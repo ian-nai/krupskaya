@@ -1,6 +1,8 @@
 # Welcome
 
-This website is built using the Hyde theme. Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+This site is intended to provide an online home for English-language resources relating to Nadezhda Krupskaya, Deputy Education Commissar of the Soviet Union from 1929 to 1939, who played a vital role in the development and support of Soviet librarianship and libraries.
+
+This website was built using the Hyde theme. Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ## Dependenceies
 
@@ -8,7 +10,7 @@ This website is built using the Hyde theme. Hyde is a brazen two-column [Jekyll]
 * [Jekyll](https://jekyllrb.com)
   * [jekyll-paginate](https://github.com/jekyll/jekyll-paginate)
 
-## Install Localy
+## Install Locally
 
 Install Ruby and Gems, then:
 ```sh
