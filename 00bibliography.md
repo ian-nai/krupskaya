@@ -13,7 +13,7 @@ permalink: /bibliography/
 
 <br />
 [Simsova, Sylva. Lenin, Krupska︠i︡a, and libraries. Translated by G. Peacock and Lucy Prescott](https://search.lib.utexas.edu/permalink/01UTAU_INST/1ilchdf/alma991013521479706011). Hamden, Conn: Archon Books, 1968.
-> This books collects primary sources on Soviet librarianship in English translation into one compact, readable volume. Selections include speeches and articles by Lenin and Krupskaya, as well as writings by about Lenin and Krupskaya and their relationships to libraries and library work. Also included is a helpful annotated bibliography by the editor of the book, S. Simsova Fla.
+> This book collects primary sources on Soviet librarianship in English translation into one compact, readable volume. Selections include speeches and articles by Lenin and Krupskaya, as well as writings by about Lenin and Krupskaya and their relationships to libraries and library work. Also included is a helpful annotated bibliography by the editor of the book, S. Simsova Fla.
 
 
 ### Articles
