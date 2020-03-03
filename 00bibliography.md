@@ -8,6 +8,11 @@ permalink: /bibliography/
 
 ### Books
 
+[McNeal, Robert H. Bride of the Revolution: Krupskaya and Lenin](https://search.lib.utexas.edu/permalink/01UTAU_INST/be14ds/alma991049217599706011). Ann Arbor, Michigan: The University of Michigan Press, 1972.
+> This book is the defining biographical work on Krupskaya in English, and covers both Krupskaya's own life and some of Lenin's biography and activities. While the content of the book often focuses on the relationship between Lenin and Krupskaya, rather than Krupskaya's own efforts as Deputy Education Commissar, it is nevertheless an essential resource in English on her life and work.
+
+<br />
+
 [Raymond, Boris. Krupskaia and Soviet Russian Librarianship, 1917-1939](https://search.lib.utexas.edu/permalink/01UTAU_INST/1ilchdf/alma991050066209706011). Metuchen, N.J: Scarecrow Press, 1979.
 > This book is an excellent overview of Krupskaia’s work in developing Soviet Russian librarianship in the period from 1917 to 1939. The book offers a critical examination of Krupskaya’s ideology and actions in her work towards crafting a Bolshevik theory of librarianship that combined allegiance to the principles of partiinost’ with a desire to open up Russia’s libraries to the masses. 
 
